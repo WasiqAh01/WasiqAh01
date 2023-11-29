@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**aamirsofi/aamirsofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wasiqahmed/wasiqahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, i'm [Anees Akbar](https://nasdev.in/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm WASIQ AHMED WAZA, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:eraneesakbar@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:wasiqahmed709@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**
